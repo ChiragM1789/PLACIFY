@@ -1,2 +1,2 @@
 # PLACIFY
-Smart India Hackathon Project
+Smart India Hackathon 2022 Project 
